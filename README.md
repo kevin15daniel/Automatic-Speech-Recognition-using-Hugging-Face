@@ -1,2 +1,2 @@
 # Automatic-Speech-Recognition-using-Hugging-Face
-A "Automatic Speech Recognition using Hugging Face" is a project where I developed and implemented an efficient speech recognition model utilizing Hugging Face technology.
+A "Automatic Speech Recognition using Hugging Face" is a project where I developed and implemented an efficient speech recognition model utilizing Hugging Face technology. Employing state-of-the-art techniques, I enhanced accuracy and performance in transcribing spoken language to text. Through this project, I gained valuable experience in Natural Language Processing (NLP) and Machine Learning (ML), contributing to advancements in communication technology.
